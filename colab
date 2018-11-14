@@ -15,6 +15,6 @@ if [ ! -d fastai ]; then
 fi
 
 pip install fastai --upgrade
-cd fastai/fastai/courses
+cd fastai/fastai
 git pull
 
